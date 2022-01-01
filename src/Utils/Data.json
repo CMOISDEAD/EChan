@@ -1,0 +1,9 @@
+{
+  "boards": [
+    { "name": "Anime", "id": "a", "description": "something" },
+    { "name": "Random", "id": "b", "description": "something" },
+    { "name": "Cars", "id": "c", "description": "something" }
+  ],
+  "version": "0.0.1",
+  "author": "DROPDEAD"
+}
